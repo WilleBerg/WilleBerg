@@ -1,24 +1,10 @@
-### Hi there 👋
-
-<!--
-**WilleBerg/WilleBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1 align="center"> Hi there 👋 </h1> <br>
 <p align="center"> 
     <b> Welcome to my GitHub profile! </b><br><br>
     <i>
          I am WilleBerg, a software developer with experience in developing Discord bots, web APIs, and games. I have a strong background in programming languages including JavaScript, Python, C++, C#, and MongoDB, as well as experience in C and Assembly from university projects. 
+    <br><br>
+    My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
     </i>
 </p>
 
@@ -33,11 +19,6 @@ Here are some ideas to get you started:
 
 ### Frameworks & Technologies
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/WilleBerg)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/WilleBerg)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/WilleBerg)
-[![MongoDB](https://img.shields.io/badge/monodb-black?style=for-the-badge&logo=mongodb)](https://hub.docker.com/u/WilleBerg)
-
-
-My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
-
-
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/WilleBerg)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/WilleBerg)
+[![MongoDB](https://img.shields.io/badge/monodb-black?style=for-the-badge&logo=mongodb)](https://github.com/WilleBerg)
