@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-    <b> Welcome to my GitHub profile! <b><br><br>
+    <b> Welcome to my GitHub profile! </b><br><br>
     <i>
          I am WilleBerg, a software developer with experience in developing Discord bots, web APIs, and games. I have a strong background in programming languages including JavaScript, Python, C++, C#, and MongoDB, as well as experience in C and Assembly from university projects. 
     </i>
