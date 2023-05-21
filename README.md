@@ -6,7 +6,7 @@
     <br><br>
     My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
     </i> <br> <br>
-    <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/william-berg-328829277/)">
+    <a href="[https://www.linkedin.com/in/william-berg-328829277/](https://www.linkedin.com/in/william-berg-328829277/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
