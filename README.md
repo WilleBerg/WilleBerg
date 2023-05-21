@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+    <b> Welcome to my GitHub profile! <b><br><br>
+    <i>
+         I am WilleBerg, a software developer with experience in developing Discord bots, web APIs, and games. I have a strong background in programming languages including JavaScript, Python, C++, C#, and MongoDB, as well as experience in C and Assembly from university projects. 
+    </i>
+</p>
+
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WilleBerg)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WilleBerg)
@@ -29,8 +36,8 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/WilleBerg)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/WilleBerg)
 [![MongoDB](https://img.shields.io/badge/monodb-black?style=for-the-badge&logo=mongodb)](https://hub.docker.com/u/WilleBerg)
-Welcome to my GitHub profile! I am WilleBerg, a software developer with experience in developing Discord bots, web APIs, and games. I have a strong background in programming languages including JavaScript, Python, C++, C#, and MongoDB, as well as experience in C and Assembly from university projects.
 
-My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game developed, as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
+
+My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
 
 
