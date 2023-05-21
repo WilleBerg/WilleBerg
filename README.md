@@ -6,16 +6,16 @@
     <br><br>
     My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
     </i> <br> <br>
-    <a href="[https://www.linkedin.com/in/william-berg-328829277/](https://www.linkedin.com/in/william-berg-328829277/)">
+    <a href="https://www.linkedin.com/in/william-berg-328829277/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WilleBerg)
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WilleBerg)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WilleBerg)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WilleBerg)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/WilleBerg)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/WilleBerg)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/WilleBerg)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/WilleBerg)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/WilleBerg)
