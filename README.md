@@ -24,4 +24,4 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/WilleBerg)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/WilleBerg)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/WilleBerg)
-[![MongoDB](https://img.shields.io/badge/monodb-black?style=for-the-badge&logo=mongodb)](https://github.com/WilleBerg)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/WilleBerg)
