@@ -2,9 +2,9 @@
 <p align="center"> 
     <b> Welcome to my GitHub profile! </b><br><br>
     <i>
-         I am WilleBerg, a software developer with experience in developing Discord bots, web APIs, and games. I have a strong background in programming languages including JavaScript, Python, C++, C#, and MongoDB, as well as experience in C and Assembly from university projects. 
+         My name is William Berg. I have a strong background in programming languages including Python, C++, Rust, C#, JavaScript, Go, and MongoDB, as well as experience in C and Assembly from university projects. 
     <br><br>
-    My projects showcase my skills and attention to detail, including a multi-functional Discord bot that plays music and communicates with websites through APIs. A chess game as well as a 2D pixelart game with Monogame and C#. I have also contributed to several Advent of Code challenges using C++.
+    I have many different projects on my Github, the largest being a multi-functional Discord bot that plays music and communicates with websites through APIs.
     </i> <br> <br>
     <a href="https://www.linkedin.com/in/william-berg-328829277/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
