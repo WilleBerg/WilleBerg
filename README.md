@@ -16,6 +16,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WilleBerg)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/WilleBerg)
 [![Go](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go)](https://github.com/WilleBerg)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/WilleBerg)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WilleBerg)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/WilleBerg)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/WilleBerg)
