@@ -4,7 +4,7 @@
     <i>
          My name is William Berg. I have a strong background in programming languages including Python, C++, Rust, C#, JavaScript, Go, and MongoDB, as well as experience in C and Assembly from university projects. 
     <br><br>
-    I have many different projects on my Github, the largest being a multi-functional Discord bot that plays music and communicates with websites through APIs.
+    
     </i> <br> <br>
     <a href="https://www.linkedin.com/in/william-berg-328829277/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
