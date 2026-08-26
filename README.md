@@ -1,15 +1,4 @@
 <h1 align="center"> Hi there 👋 </h1> <br>
-<p align="center"> 
-    <b> Welcome to my GitHub profile! </b><br><br>
-    <i>
-         My name is William Berg. I have a strong background in programming languages including Python, C++, Rust, C#, JavaScript, Go, and MongoDB, as well as experience in C and Assembly from university projects. 
-    
-    </i> <br> <br>
-    <a href="https://www.linkedin.com/in/william-berg-328829277/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-</p>
-
 ### Languages
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WilleBerg)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WilleBerg)
