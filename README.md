@@ -1,4 +1,3 @@
-<h1 align="center"> Hi there 👋 </h1> <br>
 ### Languages
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WilleBerg)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WilleBerg)
