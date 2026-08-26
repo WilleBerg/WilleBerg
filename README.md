@@ -3,7 +3,6 @@
     <b> Welcome to my GitHub profile! </b><br><br>
     <i>
          My name is William Berg. I have a strong background in programming languages including Python, C++, Rust, C#, JavaScript, Go, and MongoDB, as well as experience in C and Assembly from university projects. 
-    <br><br>
     
     </i> <br> <br>
     <a href="https://www.linkedin.com/in/william-berg-328829277/">
